@@ -31,14 +31,14 @@ Diferente de aplicativos genéricos de exercícios, o sistema atua com **rigor c
 
 ### 1. 🛡️ Triagem Clínica & Filtro Biomecânico
 - **Duração Flexível**: 15 min (*Pausa Ativa Express*), 30 min (*Equilíbrio Padrão*) ou 45 min (*Reabilitação Completa*).
-- **Mapeamento de Queixas**: Lombar, cervical/trapézio, punhos/LER, ombros/escápulas, coluna torácica e flexores de quadril.
+- **Mapeamento de Queixas**: Lombar, cervical/trapézio punhos/LER, ombros/escápulas, coluna torácica e flexores de quadril.
 - **Exclusão de Contraindicações**:
   - *Hérnia Lombar*: Elimina flexões forçadas sob carga ou torções axiais compressivas; prioriza coluna neutra.
   - *Osteopenia/Osteoporose*: Retira flexões e torções extremas para proteger a integridade dos corpos vertebrais.
-  - *Túnel do Carpo / Punhos*: Substitui apoios manuais abertos por antebraços ou decúbito dorsal.
+  - *Túnel do Carpo/Punhos*: Substitui apoios manuais abertos por antebraços ou decúbito dorsal.
   - *Lesão de Ombro*: Remove elevações acima de 90° e pranchas instáveis.
-  - *Dor Patelar / Joelho*: Veta posturas de apoio direto sobre o joelho sem amortecimento.
-  - *Gestação / Diástase*: Veta decúbito ventral (prono) e exercícios hiperpressivos.
+  - *Dor Patelar/Joelho*: Veta posturas de apoio direto sobre o joelho sem amortecimento.
+  - *Gestação/Diástase*: Veta decúbito ventral (prono) e exercícios hiperpressivos.
 - **Relatório de Auditoria Clínica**: Painel transparente demonstrando exatamente quais exercícios foram excluídos e a fundamentação biomecânica de cada veto.
 
 ### 2. 🧩 Sequência Lógica em 4 Fases de Pilates
