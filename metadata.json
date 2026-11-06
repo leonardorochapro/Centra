@@ -1,0 +1,6 @@
+{
+  "name": "Centra - Mat Pilates Clínico & Saúde Ocupacional",
+  "description": "Plataforma online de Mat Pilates clínico com supervisão postural, anamnese individual e rotinas personalizadas para teletrabalho e saúde ocupacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
